@@ -118,7 +118,7 @@ catalog:
   'playwright-core': 1.60.0
   'regjsparser': 0.13.1
   'rolldown': 1.1.0
-  'shell-quote': 1.8.4
+  'shell-quote': 1.9.0
   'taze': 19.14.1
   # vite 8.0.14 swaps esbuild → rolldown natively (bundles rolldown
   # 1.0.2), so the override below removes esbuild from the install tree.
